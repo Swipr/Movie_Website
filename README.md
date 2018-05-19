@@ -47,12 +47,12 @@ $ python3 entertainment_center.py
 | ------ | ------ |
 | Animated ghost text effect | https://codepen.io/vanderlanth/pen/YZZeJE |
 | Bootstrap | https://getbootstrap.com/ |
+|TMDb API|https://www.themoviedb.org/documentation/api|
 | TMDbSimple | http://github.com/celiao/tmdbsimple |
 | Vlump Font | https://www.dafont.com/vlump.font |
 | Stingray Font | https://www.dafont.com/stingray.font |
-|TMDb API|https://www.themoviedb.org/documentation/api|
 
 
 ## Known bugs
 
-- Iframe sometimes stays on screen when clicking away to close it on Safari. [Example](https://ibb.co/ee4tT8)
+- Iframe sometimes stays on screen when clicking away to close it in Safari. [Example](https://ibb.co/ee4tT8)
