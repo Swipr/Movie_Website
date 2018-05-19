@@ -2,7 +2,10 @@ import tmdbsimple
 
 
 class Movie():
-    """ This class fetches and stores movie information using the TMDb API. """
+    """ This class takes a user specified movie ID which is an integer,
+        then fetches and return the requested movie information as a string
+        using the TMDb API.
+    """
 
     # Assign API key for TMDb API // Please use your API key!
     tmdbsimple.API_KEY = '1263dbac5a813170b2f4bc9c8e9fb168'
