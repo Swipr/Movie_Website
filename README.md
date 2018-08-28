@@ -7,6 +7,8 @@ A python program that generate a movie trailer site using the TMDb API.
 
 This is project 1 of the [Udacity Full Stack Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004) course.
 
+#### DEMO : https://www.swipr.co/portfolio/movie/
+
 &nbsp;
 ## Dependencies
 &nbsp;
